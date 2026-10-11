@@ -1,0 +1,36 @@
+COMPONENTI DI TERZE PARTI
+Metal Gear Solid ENG/ITA v1.1
+
+L'eseguibile di questa mod incorpora due programmi scritti da altri. Eccoli,
+con le rispettive licenze e la provenienza.
+
+
+1. xdelta3
+   Autore: Joshua MacDonald
+   Sito:   https://github.com/jmacd/xdelta
+   Licenza: Apache License 2.0 (versione 3.2.x)
+            GNU General Public License v2 per il ramo xdelta-gpl (3.0.x/3.1.x)
+
+   Usato per applicare le patch binarie. Il file eseguibile incorporato non e'
+   stato modificato in alcun modo rispetto alla distribuzione ufficiale.
+
+
+2. chdman
+   Progetto: MAME
+   Sito:     https://www.mamedev.org/
+   Licenza:  GNU General Public License v2 o successiva
+
+   Usato per leggere e creare i file .chd. Il file eseguibile incorporato non e'
+   stato modificato in alcun modo rispetto alla distribuzione ufficiale.
+
+   Il codice sorgente completo di MAME, chdman compreso, e' disponibile su
+   https://github.com/mamedev/mame
+
+
+Il testo completo delle licenze si trova ai siti indicati. Chiunque puo'
+richiedere il sorgente dei componenti GPL qui incorporati: sono disponibili
+pubblicamente agli indirizzi sopra, nelle stesse versioni distribuite dai
+rispettivi progetti.
+
+Il programma applicatore scritto per questa mod e il lavoro di traduzione sono
+opera di Mattia Moro (solidcrash).
