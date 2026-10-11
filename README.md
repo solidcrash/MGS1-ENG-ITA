@@ -4,7 +4,9 @@
 di Mattia Moro (solidcrash)
 
 **Download ufficiale:** https://github.com/solidcrash/MGS1-ENG-ITA/releases
+
 **Copia di riserva (Google Drive):** https://drive.google.com/file/d/1Yl5EwAn5Y1c1h_wzGx8Z_Z6inVUq5o7F/view?usp=sharing
+
 **Video di presentazione:** https://youtu.be/P3YFF5PDRuE
 
 ---
